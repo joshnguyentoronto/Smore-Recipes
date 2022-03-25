@@ -1,7 +1,7 @@
 <h1 align="center">S'more Recipes</h1>
 
 <p align="center">
-    <img alt="Smore Recipes icon" width="100%" min-width="750px" src="https://github.com/luye713/SmoreRecipes/blob/main/main_app/static/assets/md/logo.png" />
+    <img alt="Smore Recipes icon" width="120px" src="https://github.com/luye713/SmoreRecipes/blob/main/main_app/static/assets/md/logo.png" />
 </p>
 
 <h3 align="center">Plan your next camping trip</h3>
